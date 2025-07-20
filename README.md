@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Holberton School Shell
 
 This repository is was created with education purpose. The content of the directory is based on shell command and a brief explanation.
@@ -49,3 +50,6 @@ Rot 13
 
 Nijat Hatamli (Creator)
 
+=======
+This is just text
+>>>>>>> 1e2f95a (Just do it)
